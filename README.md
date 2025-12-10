@@ -715,8 +715,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Kiran**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiran-id10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kiran-kumar-s-r-921b9128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankumarsrkiru@gmail.com)
 
 **Found this helpful? Give it a ⭐!**
 
